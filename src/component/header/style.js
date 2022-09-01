@@ -20,4 +20,7 @@ export const RightMenu = styled("div", {
   flex: 1,
   justifyContent: "flex-end",
 });
-export const LinkCustom = styled(Link, { color: "White" });
+export const LinkCustom = styled(Link, {
+  color: "White",
+  "&:hover": { fontWeight: "bold" },
+});
