@@ -18,7 +18,7 @@ function App() {
             location="Jakarta, Indonesia"
             countMember={1078}
             organizers="Arrizal"
-            imageUrl="assets/hactiv8-logo.png"
+            imageUrl="assets/images/hactiv8-logo.png"
           />
         </Section>
         <Section>
@@ -51,7 +51,7 @@ function App() {
           <MemberCard
             name="Adhy Wiranata"
             countMember={4}
-            imageSrc="assets/hactiv8-logo.png"
+            imageSrc="assets/images/hactiv8-logo.png"
           />
         </Section>
         <Section>
